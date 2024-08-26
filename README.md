@@ -22,5 +22,5 @@ This is a simple calculator application built in C#. The calculator provides bas
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/simple-calculator.git
-   cd simple-calculator
+   https://github.com/arb-108/Calculator_App.git
+   
